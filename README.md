@@ -6,12 +6,12 @@
 
 ###
 
-<h2 align="left">Sobre Mim</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left"><br>📚 Atualmente estou aprendendo teorias e praticas das linguagens<br>🎯 Objetivos: Me formar, fazer cursos e me profissionalizar<br>
-
+<p align="left">📚 I am currently studying and working to develop myself<br>
+  
 ###
 
 <h2 align="left">I code with</h2>
