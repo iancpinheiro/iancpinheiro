@@ -1,8 +1,8 @@
-<h1 align="left">Oi 👋 E ai?</h1>
+<h1 align="left">Hi 👋?</h1>
 
 ###
 
-<p align="left">Meu nome é Ian e eu sou estudante de Ciência da Computação</p>
+<p align="left">My name is Ian</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando desde 2023<br>📚 Atualmente estou aprendendo teorias e praticas das linguagens<br>🎯 Objetivos: Me formar, fazer cursos e me profissionalizar<br>
+<p align="left"><br>📚 Atualmente estou aprendendo teorias e praticas das linguagens<br>🎯 Objetivos: Me formar, fazer cursos e me profissionalizar<br>
 
 ###
 
